@@ -102,4 +102,7 @@
 
 *星光闪烁之处，即是代码的归途。希望星辉能为您的数字生活增添一份温暖！* 🌟
 
-# In fact, I really like Genshin Impact and Lobotomy Corporation！！！
+<div align="center">
+In fact, I really like Genshin Impact and Lobotomy Corporation！！！
+</div>
+
