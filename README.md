@@ -1,5 +1,14 @@
 # 桌面星辉使用指南 ✨
 
+[![Python Version](https://img.shields.io/badge/python-3.6+-blue.svg)](https://www.python.org/downloads/)
+[![Platform](https://img.shields.io/badge/platform-Windows%2010%2F11-lightgrey.svg)](https://github.com/yanodaPro/Desktop-Starhui)
+[![License](https://img.shields.io/badge/license-MIT-green.svg)](https://github.com/yanodaPro/Desktop-Starhui/blob/main/LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/yanodaPro/Desktop-Starhui.svg?style=social)](https://github.com/yanodaPro/Desktop-Starhui/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/yanodaPro/Desktop-Starhui.svg?style=social)](https://github.com/yanodaPro/Desktop-Starhui/network/members)
+[![GitHub issues](https://img.shields.io/github/issues/yanodaPro/Desktop-Starhui.svg)](https://github.com/yanodaPro/Desktop-Starhui/issues)
+[![PyQt5](https://img.shields.io/badge/GUI-PyQt5-orange.svg)](https://www.riverbankcomputing.com/software/pyqt/)
+[![Status](https://img.shields.io/badge/status-active-success.svg)](https://github.com/yanodaPro/Desktop-Starhui)
+
 ## 程序简介
 
 桌面星辉是一款基于 Python 和 PyQt5 开发的桌面宠物程序，拥有丰富的交互功能和个性化设置，为您的桌面增添生机与乐趣。
@@ -41,26 +50,14 @@
 - **背景音乐**：支持自定义音频文件
 - **动画效果**：流畅模式 / 节能模式
 
-
-
-
-
 #### 📜 异想体档案
 
 ```markdown
-
 ✦ 抽卡系统：包含多个角色卡池
-
 ✦ 稀有度分级：ALEPH > WAW > HE > TETH > ZAYIN
-
 ✦ 命之座系统：重复获取可提升角色能力
-
 ✦ 保底机制：90抽必出五星角色
-
 ```
-
-
-
 
 #### 🏆 成就徽章馆
 
@@ -94,7 +91,7 @@
 
 ## 系统要求
 
-- **操作系统**：Windows 7/10/11
+- **操作系统**：Windows 10/11
 - **Python 环境**：3.6+
 - **依赖库**：PyQt5, psutil, pywin32
 
@@ -105,4 +102,3 @@
 <div align="center">
 In fact, I really like Genshin Impact and Lobotomy Corporation！！！
 </div>
-
